@@ -6,7 +6,7 @@
 
 Simple Kanban board with user authentication.
 
-![](screenshot.jpg)
+![](screenshot.png)
 
 ## Table of Contents
 
